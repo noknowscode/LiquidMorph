@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `LiquidMorph/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/LiquidMorph) (private). This repository is archived and kept for its history.
+
 # Liquid Morph
 
 A reusable `LiquidMorphPanel` control that captures its content and morphs between states with a liquid effect drawn with SkiaSharp. The page switches between two states to show the transition.
